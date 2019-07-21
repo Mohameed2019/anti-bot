@@ -331,7 +331,7 @@ client.on('message', msg => {
    });
 /////
 client.login('NTU4NjMzNzI3MjkxNTU1ODcw.XOtC_A.hKNRUxWxDJCKIPLe6gD_jp1m-NU');
-RAW Paste Data
+/////RAW Past Date
 const Discord = require('discord.js');
 const client = new Discord.Client();
 var prefix = "$"
